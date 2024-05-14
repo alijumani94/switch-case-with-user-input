@@ -1,0 +1,12 @@
+{
+  "name": "switch-case-with-user-input",
+  "version": "1.0.0",
+  "description": "swich case with user input",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Jumani",
+  "license": "MIT"
+}
